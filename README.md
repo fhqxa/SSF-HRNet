@@ -1,5 +1,5 @@
 # SSF-HRNet
-SSF-HRNet full name is Self-similarity feature based few-shot learning via hierarchical relation network.
+SSF-HRNet full name is Self-similarity feature based few-shot learning via hierarchical relation network, International Journal of Machine Learning and Cybernetics, 2023.
 
 # Datasets
 Please click the Google Drive [link](https://drive.google.com/drive/folders/1sXJgi9pXo8i3Jj1nk08Sxo6x7dAQjf9u?usp=sharing) or [Baidu Drive (uk3o)](https://pan.baidu.com/s/17hbnrRhM1acpcjR41P3J0A) for downloading the 
